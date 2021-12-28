@@ -1,4 +1,10 @@
-### Hi there 👋
+# Olá me chamo Miguel Pereira! bem vindo ao meu github.  
+Atualmente estou estudando:  
+🤓Java  
+🤓Java Script  
+🤓Sql Server  
+🤓hTML 5 & Css3  
+
 
 <!--
 **miguelads/miguelads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
