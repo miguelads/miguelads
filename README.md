@@ -7,7 +7,7 @@ Atualmente estou estudando:
   
  <div align="center">
   <a href="https://github.com/miguelads">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=miguelads&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelads&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=miguelads&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelads&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
