@@ -3,7 +3,7 @@ Atualmente estou estudando:
 - 🤓Java  
 - 🤓Java Script  
 - 🤓Sql Server  
-- 🤓hTML 5 & Css3  
+- 🤓HTML5 & Css3  
   
  <div align="center">
   <a href="https://github.com/miguelads">
